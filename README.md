@@ -50,7 +50,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/YB2FB2Z.gif" width="100">
+  <img src="https://i.pinimg.com/originals/bd/4c/4e/bd4c4e1cedbe6c2d1d186aec4eee62bc.gif" width="100">
   <p><i>“Criar é transformar o invisível em algo que pode ser sentido.”</i></p>
 </div>
 
