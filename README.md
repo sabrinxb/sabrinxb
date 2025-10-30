@@ -15,7 +15,6 @@
 </div>
 <div align="center">
 <img
-align="left" 
     alt="CSS"
     title="CSS" 
     width="30px" 
@@ -23,7 +22,6 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
     />
 <img
-align="left" 
     alt="JAVASCRIPT"
     title="JAVASCRIPT" 
     width="30px" 
@@ -32,7 +30,6 @@ align="left"
     />
 
 <img
-align="left" 
     alt="PYTHON"
     title="PYTHON" 
     width="30px" 
@@ -41,7 +38,6 @@ align="left"
     />
 
 <img
-align="left" 
     alt="VSCODE"
     title="VSCODE" 
     width="30px" 
@@ -59,7 +55,6 @@ align="left"
     />
 
 <img
-align="left" 
     alt="REACT"
     title="REACT" 
     width="30px" 
