@@ -41,10 +41,3 @@
   <img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrinxb&theme=github_dark"/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/bd/4c/4e/bd4c4e1cedbe6c2d1d186aec4eee62bc.gif" width="100">
-  <p><i>“Criar é transformar o invisível em algo que pode ser sentido.”</i></p>
-</div>
-
