@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6324be40-c010-41c7-b117-01f2e09a1f6e/dg15d97-9285d893-b7e8-4b2b-af96-8870a09d76ef.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYzMjRiZTQwLWMwMTAtNDFjNy1iMTE3LTAxZjJlMDlhMWY2ZVwvZGcxNWQ5Ny05Mjg1ZDg5My1iN2U4LTRiMmItYWY5Ni04ODcwYTA5ZDc2ZWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Iiq0WQ6uWr-HoffLZ_N8Wd5nP7ZhlPkrMIADKSjjs9s)" />
+  <img align="center" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6324be40-c010-41c7-b117-01f2e09a1f6e/deqdf41-4bf2b893-624b-43b5-9f30-d135439cd063.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82MzI0YmU0MC1jMDEwLTQxYzctYjExNy0wMWYyZTA5YTFmNmUvZGVxZGY0MS00YmYyYjg5My02MjRiLTQzYjUtOWYzMC1kMTM1NDM5Y2QwNjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.84ax-IwlMDilXPshcu02vzm89BIKFW9iJ1TTDjRdO5M" />
 </div>
 <br>
 <br>
