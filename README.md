@@ -57,7 +57,7 @@ align="left"
     />
 
     
-    <p>
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
