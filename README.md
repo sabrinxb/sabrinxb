@@ -13,62 +13,6 @@ Me chamo Sabrina, sou estudante do 4º período de Análise e Desenvolvimento de
 integrado ao ensino médio em Informática para Internet na ETEC. Tenho grande interesse pelas áreas de desenvolvimento web
 e design, e estou sempre em busca de aprimorar meus conhecimentos em tecnologia e criação de interfaces intuitivas.
 
-<div align="center">
-<img
-  align="left"
-    alt="CSS"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-    />
-<img
-  align="left"
-    alt="JAVASCRIPT"
-    title="JAVASCRIPT" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    />
-
-<img
-  align="left"
-    alt="PYTHON"
-    title="PYTHON" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    />
-
-<img
-  align="left"
-    alt="VSCODE"
-    title="VSCODE" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-    />
-
-<img
-align="left" 
-    alt="BOOTSTRAP"
-    title="BOOTSTRAP" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-    />
-
-<img
-  align="left"
-    alt="REACT"
-    title="REACT" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-    />
-
-</div>
-
 <br>   
 <br>
 <br>
@@ -80,7 +24,18 @@ align="left"
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrinxb&theme=zenburn"/>
 </div>
+  <div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img width="40" src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="40" src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   
+</div>
 </div>
 
 <br>
