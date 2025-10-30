@@ -1,6 +1,6 @@
 <!-- 🖤 aesthetic dark profile README for Sabrina -->
 
-<h2 align="center">✨ Sabrina | Desenvolvedora & Designer ✨</h2>
+<h2 align="center"> Sabrina | Desenvolvedora & Designer </h2>
 
 <div align="center">
   <img align="center" width="400" src="https://i.pinimg.com/originals/fd/f4/55/fdf455a5cf49c33b45424baab4210baf.gif" alt="aesthetic dark gif"/>
