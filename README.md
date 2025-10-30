@@ -5,13 +5,14 @@
 <div align="center">
   <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
 </div>
-
+<br>
+<br>
+<br>
 <div align="center">
 
 *Me chamo Sabrina, sou estudante do 4º período de Análise e Desenvolvimento de Sistemas na FATEC. Concluí o curso técnico integrado ao ensino médio em Informática para Internet na ETEC. Tenho grande interesse pelas áreas de desenvolvimento web e design, e estou sempre em busca de aprimorar meus conhecimentos em tecnologia e criação de interfaces intuitivas.*
 
 </div>
-### 🤖 Linguagens e Tecnologias
 <img
 align="left" 
     alt="CSS"
@@ -76,10 +77,10 @@ align="left"
       
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabrinxb&theme=zenburn"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
+  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabrinxb&theme=zenburn"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=ayu_mirage"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrinxb&theme=zenburn"/>
 </div>
   
 </div>
