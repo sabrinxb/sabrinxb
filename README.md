@@ -17,8 +17,6 @@
 
 <br>
 
----
-
 ### 🖤 Tech Stack
 
 <div align="center">
@@ -34,8 +32,6 @@
 </div>
 
 <br>
-
----
 
 ### 🌑 Estatísticas
 
