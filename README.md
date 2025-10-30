@@ -27,6 +27,9 @@ e design, e estou sempre em busca de aprimorar meus conhecimentos em tecnologia 
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrinxb&theme=zenburn"/>
+  <div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 </div>
   <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
