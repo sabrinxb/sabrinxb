@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6324be40-c010-41c7-b117-01f2e09a1f6e/deqdf41-4bf2b893-624b-43b5-9f30-d135439cd063.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82MzI0YmU0MC1jMDEwLTQxYzctYjExNy0wMWYyZTA5YTFmNmUvZGVxZGY0MS00YmYyYjg5My02MjRiLTQzYjUtOWYzMC1kMTM1NDM5Y2QwNjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.84ax-IwlMDilXPshcu02vzm89BIKFW9iJ1TTDjRdO5M" />
+  <img align="center" height="150" src="" />
 </div>
 <br>
 <br>
@@ -17,6 +17,7 @@ e design, e estou sempre em busca de aprimorar meus conhecimentos em tecnologia 
 </div>
 <div align="center">
 <img
+  display="flex"
     alt="CSS"
     title="CSS" 
     width="30px" 
