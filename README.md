@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+  <img align="center" height="150" src="[https://imgur.com/aXIQLp8.png](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6324be40-c010-41c7-b117-01f2e09a1f6e/dg15d97-9285d893-b7e8-4b2b-af96-8870a09d76ef.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYzMjRiZTQwLWMwMTAtNDFjNy1iMTE3LTAxZjJlMDlhMWY2ZVwvZGcxNWQ5Ny05Mjg1ZDg5My1iN2U4LTRiMmItYWY5Ni04ODcwYTA5ZDc2ZWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Iiq0WQ6uWr-HoffLZ_N8Wd5nP7ZhlPkrMIADKSjjs9s)" />
 </div>
 <br>
 <br>
@@ -69,12 +69,7 @@ align="left"
 
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
-      
+<br>   
 <br>
 <br>
       
