@@ -48,5 +48,3 @@
   <p><i>“Criar é transformar o invisível em algo que pode ser sentido.”</i></p>
 </div>
 
----
-
