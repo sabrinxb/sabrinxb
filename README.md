@@ -1,47 +1,58 @@
-## 🔌 Sabrina
-<br>
-<br>
+<!-- 🖤 aesthetic dark profile README for Sabrina -->
+
+<h2 align="center">✨ Sabrina | Desenvolvedora & Designer ✨</h2>
 
 <div align="center">
-  <img align="center" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/90a9b7fe-bf9f-4057-b242-fc73fdd68f88/debtt27-b80d0b85-e9d0-4c9c-ac0e-ab2c71e77ede.png/v1/fill/w_255,h_183,q_80,strp/vanilla_twilight_by_panicpuppy_debtt27-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgzIiwicGF0aCI6Ii9mLzkwYTliN2ZlLWJmOWYtNDA1Ny1iMjQyLWZjNzNmZGQ2OGY4OC9kZWJ0dDI3LWI4MGQwYjg1LWU5ZDAtNGM5Yy1hYzBlLWFiMmM3MWU3N2VkZS5wbmciLCJ3aWR0aCI6Ijw9MjU1In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.im96sh4gH0HxBeLUmnKW1PnVTTCHhfZ7f1RdBj_24tc" />
+  <img align="center" width="400" src="https://i.imgur.com/nT6x4pR.gif" alt="aesthetic dark gif"/>
 </div>
-<br>
-<br>
+
 <br>
 
-Me chamo Sabrina, sou estudante do 4º período de Análise e Desenvolvimento de Sistemas na FATEC. Concluí o curso técnico integrado ao ensino médio em Informática para Internet na ETEC. Tenho grande interesse pelas áreas de desenvolvimento web e design, e estou sempre em busca de aprimorar meus conhecimentos em tecnologia e criação de interfaces intuitivas.
+<p align="center">
+  🌘 Estudante do <b>4º período</b> de <b>Análise e Desenvolvimento de Sistemas</b> na <b>FATEC</b><br>
+  🎓 Técnica em <b>Informática para Internet</b> pela <b>ETEC</b><br>
+  💻 Apaixonada por <b>desenvolvimento web</b> e <b>design</b><br>
+  ☕ Sempre explorando o equilíbrio entre <b>tecnologia</b> e <b>estética</b>.
+</p>
 
-<br>   
 <br>
-<br/>
 
 ---
 
-  ### 📊 Estatísticas
+### 🖤 Tech Stack
+
 <div align="center">
-  
-  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabrinxb&theme=jolly"/>
-  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabrinxb&theme=jolly"/>
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrinxb&theme=jolly"/>
-</div>
-  <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  
-</div>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
 <br>
-<br>
-<br>
-<br>
-<br>
+
+---
+
+### 🌑 Estatísticas
+
+<div align="center">
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabrinxb&theme=github_dark"/>
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabrinxb&theme=github_dark"/>
+  
+  <br><br>
+  <img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrinxb&theme=github_dark"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/YB2FB2Z.gif" width="100">
+  <p><i>“Criar é transformar o invisível em algo que pode ser sentido.”</i></p>
+</div>
+
+---
+
